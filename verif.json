@@ -1,1 +1,9 @@
-test
+{
+    "app": [{
+        "app": "SDPMAFiches",
+        "version": "1.0.0.0",
+        "changelog": "Version finale\r\nVersion 1.0.0.0\r\nInstallation polices automatiques",
+        "lienDL": "https:\/\/github.com\/auberletraphael\/SDPMAFiches\/releases\/download\/1.0.0\/SDPMAFiches1.0.0.zip",
+        "hashcode": "TEST"
+    }]
+}
